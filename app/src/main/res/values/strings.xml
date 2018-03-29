@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSCI490-Lab_6 Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="My_Location">My Location</string>
+</resources>
